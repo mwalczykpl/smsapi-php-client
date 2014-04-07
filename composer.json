@@ -1,5 +1,5 @@
 {
-    "name": "smsapi.pl/php-client",
+    "name": "smsapi.mwalczyk.pl/php-client",
     "description": "Library for communicating with provider",
     "homepage": "http://www.smsapi.pl",
     "version": "1.0.0",
